@@ -52,22 +52,27 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 ---
 
 ##  App Screens
-<img width="386" height="766" alt="image" src="https://github.com/user-attachments/assets/b7163be2-5eea-415b-92f6-64920ac8bb7f" />
-<img width="315" height="667" alt="image" src="https://github.com/user-attachments/assets/6114bb36-7b1b-4eb0-9643-ab428346152b" />
-<img width="304" height="642" alt="image" src="https://github.com/user-attachments/assets/be05b181-5f99-4833-8216-e56d7ff65a63" />
-<img width="359" height="761" alt="image" src="https://github.com/user-attachments/assets/cd614b90-343c-456c-a4f1-79f3f342cc2a" />
-<img width="360" height="760" alt="image" src="https://github.com/user-attachments/assets/4a1799a5-d3a1-4e53-be11-28e7f97edf9a" />
-<img width="382" height="804" alt="image" src="https://github.com/user-attachments/assets/595f4e97-8044-46c5-b59c-1031ce5b4d93" />
-<img width="372" height="784" alt="image" src="https://github.com/user-attachments/assets/19efd537-2755-4b8c-aed5-df68c65dcf6f" />
-<img width="382" height="804" alt="image" src="https://github.com/user-attachments/assets/6ed067dd-8e9b-451f-a5d6-db167bd72bd0" />
-<img width="371" height="785" alt="image" src="https://github.com/user-attachments/assets/9d3705fc-e5c6-4cae-bf9f-e5bebd85e259" />
-<img width="372" height="788" alt="image" src="https://github.com/user-attachments/assets/eea2baa8-08a2-4505-8d4e-1c9feef26c22" />
-<img width="360" height="788" alt="image" src="https://github.com/user-attachments/assets/3def5acb-b518-4a83-8cbe-9498ddbe2bed" />
-<img width="319" height="673" alt="image" src="https://github.com/user-attachments/assets/d2f149c3-2bd4-459b-af54-7aa8cd0072a8" />
-![Uploading image.png…]()
 
 
+### Authentication
+| Sign In | Register |
+|---------|----------|
+| <img width="300" height="600" src="https://github.com/user-attachments/assets/e55c0e07-27b2-4b19-b556-cccbeec1a4bc" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/9f0434a8-d6cd-4438-957f-0be19ab72e81" /> |
 
+### Home & Search
+| Home | Search — Salons | Search — Stylists |
+|------|-----------------|-------------------|
+| <img width="300" height="600" src="https://github.com/user-attachments/assets/c4b9e520-d8fa-46a9-9d60-b2547cac7fef" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/e10ccfb8-c1fe-48d6-917e-9b20bdc3bb44" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/ffb0a445-e10b-4881-969b-14d7fd34d09f" /> |
+
+### Booking Flow
+| Services | Stylist Selection | Date Picker | Time Slots | Confirmation |
+|----------|-------------------|-------------|------------|--------------|
+| <img width="300" height="600" src="https://github.com/user-attachments/assets/b966e031-b461-4809-b71c-480623c480b5" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/c5cee2d2-1ad2-4746-8fb8-7163ea5a1faa" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/4943b180-cce3-44db-aa6f-d9c62fd5413e" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/cd9f711a-6c47-47c1-966d-acb21f8e3dc6" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/711f25da-9bcc-427b-9374-0a107745dc77" /> |
+
+### Profile & Payments
+| Profile | My Bookings | Google Pay | Payment Confirmed |
+|---------|-------------|------------|-------------------|
+| <img width="300" height="600" src="https://github.com/user-attachments/assets/ede5eb36-26a2-446f-914d-1b1f3b72025e" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/4aa77b62-e613-41cd-8496-3a37c2902b0b" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/bea3a8fb-4fd0-44d6-90ee-ecd8bbbfc470" /> | <img width="300" height="600" src="https://github.com/user-attachments/assets/ba52915c-69fa-47bf-90ae-defe780f6642" /> |
 
 ---
 
@@ -84,7 +89,7 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/beauty-booking-app/beauty-booking-app.git
+   git clone https://github.com/signora-misteriosa/beauty-booking-app.git
    cd beauty-booking-app
    ```
 
@@ -103,7 +108,7 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - **Push notifications** via Firebase Cloud Messaging (reminders 24h and 2h before appointments, with snooze/cancel actions)
 - **Reviews & ratings** — clients can rate services and stylists, with aggregated scores displayed on profiles
@@ -112,7 +117,7 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 ---
 
-## 📚 References
+##  References
 
 - [Firebase Authentication Docs](https://firebase.google.com/docs/auth)
 - [Firebase Firestore Docs](https://firebase.google.com/docs/firestore)
@@ -122,7 +127,7 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Eligia Răileanu**  
 Faculty of Computer Science and Engineering  
