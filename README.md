@@ -52,8 +52,21 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 ---
 
 ##  App Screens
+<img width="386" height="766" alt="image" src="https://github.com/user-attachments/assets/b7163be2-5eea-415b-92f6-64920ac8bb7f" />
+<img width="315" height="667" alt="image" src="https://github.com/user-attachments/assets/6114bb36-7b1b-4eb0-9643-ab428346152b" />
+<img width="304" height="642" alt="image" src="https://github.com/user-attachments/assets/be05b181-5f99-4833-8216-e56d7ff65a63" />
+<img width="359" height="761" alt="image" src="https://github.com/user-attachments/assets/cd614b90-343c-456c-a4f1-79f3f342cc2a" />
+<img width="360" height="760" alt="image" src="https://github.com/user-attachments/assets/4a1799a5-d3a1-4e53-be11-28e7f97edf9a" />
+<img width="382" height="804" alt="image" src="https://github.com/user-attachments/assets/595f4e97-8044-46c5-b59c-1031ce5b4d93" />
+<img width="372" height="784" alt="image" src="https://github.com/user-attachments/assets/19efd537-2755-4b8c-aed5-df68c65dcf6f" />
+<img width="382" height="804" alt="image" src="https://github.com/user-attachments/assets/6ed067dd-8e9b-451f-a5d6-db167bd72bd0" />
+<img width="371" height="785" alt="image" src="https://github.com/user-attachments/assets/9d3705fc-e5c6-4cae-bf9f-e5bebd85e259" />
+<img width="372" height="788" alt="image" src="https://github.com/user-attachments/assets/eea2baa8-08a2-4505-8d4e-1c9feef26c22" />
+<img width="360" height="788" alt="image" src="https://github.com/user-attachments/assets/3def5acb-b518-4a83-8cbe-9498ddbe2bed" />
+<img width="319" height="673" alt="image" src="https://github.com/user-attachments/assets/d2f149c3-2bd4-459b-af54-7aa8cd0072a8" />
+![Uploading image.png…]()
 
-<img width="360" height="760" alt="image" src="https://github.com/user-attachments/assets/3f60b206-ae34-44f3-ac73-be06c437cd45" />
+
 
 
 ---
