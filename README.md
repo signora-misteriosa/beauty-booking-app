@@ -4,7 +4,7 @@ An Android mobile application that simplifies the process of booking beauty and 
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Bookify was developed as a bachelor's thesis project at the **"1 Decembrie 1918" University of Alba Iulia**, Faculty of Computer Science and Engineering (2025).
 
@@ -53,23 +53,8 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 ##  App Screens
 
-```
-Splash / Slider
-    └── Sign In / Register
-            └── Home (nearby salons, categories, offers)
-                    └── Search (salons & stylists tabs)
-                    └── Appointments (booking flow)
-                    │       ├── Service selection
-                    │       ├── Stylist selection
-                    │       ├── Date picker (calendar)
-                    │       ├── Time slot selection
-                    │       └── Payment (Cash / Google Pay)
-                    └── Profile
-                            ├── Edit Profile
-                            ├── My Bookings
-                            ├── Payment Methods
-                            └── Logout
-```
+<img width="360" height="760" alt="image" src="https://github.com/user-attachments/assets/3f60b206-ae34-44f3-ac73-be06c437cd45" />
+
 
 ---
 
