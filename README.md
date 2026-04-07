@@ -1,4 +1,4 @@
-# Bookify 💇 — Beauty Salon Booking App
+# Bookify  — Beauty Salon Booking App
 
 An Android mobile application that simplifies the process of booking beauty and grooming services, connecting clients with salons and stylists in their area.
 
@@ -12,7 +12,7 @@ The app addresses a common pain point in the Romanian market: booking appointmen
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Authentication** — Register/Login with email & password, Google Sign-In, or Facebook Sign-In (via Firebase Authentication)
 - **Browse & Search** — Explore salons and stylists by category (Hair, Manicure, Skincare, Makeup, etc.), filtered by proximity using geolocation
@@ -24,7 +24,7 @@ The app addresses a common pain point in the Romanian market: booking appointmen
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -39,7 +39,7 @@ The app addresses a common pain point in the Romanian market: booking appointmen
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 The project follows the **MVVM** architectural pattern, ensuring a clear separation of concerns:
 
@@ -51,7 +51,7 @@ Data persistence is handled entirely through **Firebase Firestore**, accessed di
 
 ---
 
-## 📱 App Screens
+##  App Screens
 
 ```
 Splash / Slider
@@ -73,7 +73,7 @@ Splash / Slider
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -86,8 +86,8 @@ Splash / Slider
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/beauty-booking-app/bookify.git
-   cd bookify
+   git clone https://github.com/beauty-booking-app/beauty-booking-app.git
+   cd beauty-booking-app
    ```
 
 2. **Connect Firebase**
